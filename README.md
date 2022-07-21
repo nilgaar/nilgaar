@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nil Gallego!
+- 👀 I’m interested in QA Automation and Software QA in general
+- 💞️ I’m looking to collaborate on open projects related to Automation and Operations
+- 📫 You can reach me on LinkedIn www.linkedin.com/in/nil-g-627996147
