@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Nil Gallego!
-- 👀 I’m interested in DevOps and Security
-- ᚛ I’m looking to collaborate on open projects related to Security and Operations
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/nilgallego)
+- 👋 Hi, I’m Nil!
